@@ -1,0 +1,5 @@
+PRIVATE-*
+*.sql.private
+.DS_Store
+node_modules
+.vercel
